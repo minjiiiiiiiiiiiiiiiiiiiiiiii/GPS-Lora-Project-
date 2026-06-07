@@ -12,14 +12,14 @@
 // =========================
 // PATROL UNIT SETTINGS
 // =========================
-#define CAR_ID "CAR1"   // Change to CAR2 for second patrol car
+#define CAR_ID "CAR1"   // Change to the car name if you want multiple devices.
 
 // =========================
 // WiFi & API SETTINGS
 // =========================
-const char* WIFI_SSID = "PNP-102";
-const char* WIFI_PASSWORD = "1234567890";
-const char* API_URL = "https://my-backend-874898295291.asia-southeast1.run.app/api/update-location";
+const char* WIFI_SSID = "Enter your Wi-Fi credentials";
+const char* WIFI_PASSWORD = "Enter your Wi-fi password";
+const char* API_URL = "Paste Here your backend API link here";
 
 // =========================
 // GPS PINS
